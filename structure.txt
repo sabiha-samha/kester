@@ -1,0 +1,253 @@
+header.header
+  .container
+     a.logo
+       img.img
+
+     ul.nav-menu
+       li.navbar-item
+          a.navbar-link
+
+     nav.navbar
+
+       .nav-close-btn
+         ion-icon
+
+       a.logo
+         img.img
+
+       ul.navbar-list
+         li.navbar-item
+            a.navbar-link
+
+       ul.social-wrapper
+         li.social-item
+
+           a.social-link
+             ion-icon
+
+     ul.header-action-list
+       li.header-action-item
+         
+         a.header-action-link.search-box
+           ion-icon
+
+        li.header-action-item
+          a.header-action-link.cart
+            ion-icon
+
+        li.header-action-item
+          a.header-action-link.nav-open-btn
+            span.span
+            span.span
+            span.span
+
+
+
+main
+  article
+
+    section.section.hero
+      .container
+
+        p.hero-subtitle
+
+        h1.h1.hero-title
+
+        a.btn.hero-btn
+          span.span
+          ion-icon
+
+        a.btn.btn-primery
+            span.span
+            ion-icon
+
+        img.img.hero-shape
+
+    section.section.letest-match
+      .container
+
+        ul.match-list
+          li.match-item
+            .match-card
+
+              figure.card-banner.img-holder
+                img.img-cover
+
+              .match-content
+                h3.h3.match-title
+
+                .card-badge
+                    span.span
+
+          li.match-item
+            .match-card
+
+              .timer
+                span.lerge-timer
+                span.span
+
+
+          li.match-item
+            .match-card
+
+              .match-content
+                h3.h3.match-title
+
+                .card-badge
+                    span.span            
+
+              figure.card-banner.img-holder
+                img.img-cover
+
+    section.section.gallery
+      .container
+
+        ul.gallery-list
+          li.gallery-item
+            .gallery-card
+               figure.gallery-banner.img-holder
+                 img.img-cover
+
+               .gallery-content
+                  .badge
+                     span.span
+
+                  h3.h3.gallery-title
+
+                  a.gallery-btn.has-before
+
+    section.section.primier
+      .container
+        
+         h2.h2.section-title
+
+         p.section.text
+
+         ul.premier-list
+           li.premier-item
+             
+             ul.table-list
+
+               li.team-name
+                 span.mode
+
+                 h3.name
+
+                 span.time
+
+               li.team-logo-aria
+                  .team-logo
+                     img.img
+
+                     span.span
+
+                  button.circle-VS
+                    span.span
+
+                  .team-logo
+                    img.img
+
+                    span.span
+
+               li.team-button-aria
+                   a.btn.btn-primery
+                     span.span
+
+                   a.btn.btn-secondary
+                     span.span
+
+    section.section.about
+      .container
+
+         .about-banner-box
+           figure.about-banner.img-holder
+             img.img-cover
+
+           figure.about-banner.img-holder
+             img.img-cover
+
+          .about-content
+             h2.h2.section-title
+               span.span
+
+             p.section-text
+
+             ul.player-list
+               li.player-item
+
+                 .player-card
+                    .player-banner
+                      ion-icon
+
+                    .player-content
+                       span.span.card-subtitle
+                       h4.h4.card-title
+
+             a.btn.btn-secondary
+
+    section.section.sponsors
+      .container
+         h2.h2.section-title
+
+         p.section-text
+
+         ul.sponsor-list.slider-list
+           li.sponsor-item.slider-item
+              .sponsor-card
+                img.img
+
+
+
+footer.footer
+  .container
+
+    .foooter-top
+      .footer-brand
+         a.footer-logo
+           img.img
+
+         p.footer-text
+
+         ul.social-wrapper
+           li.social-item
+              a.social-link
+                 ion-icon
+           
+
+      .footer-list-table
+        h5.h5.footer-widget-title
+
+        .footer-list-wrapper
+          ul.footer-list
+            li.footer-list-item
+              a.footer-link
+
+          ul.footer-list
+
+      .footer-info
+        h5.h5.footer-widget-title
+
+        ul.footer-info-list
+          li.footer-info-item
+              ionicon
+              a.footer-info-link
+
+      .post-gallery
+        h5.h5.footer-widget-title
+
+        .grid-list
+          figure.img-holder
+            img.img-cover
+
+    .footer-bottom
+       .copyright
+
+       ul.footer-bottom-list
+         li.footer-bottom-item
+           a.footer-bottom-link
+
+
+.back-top-btn
+  ion-icon
+  ion-icon
+

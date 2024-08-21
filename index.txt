@@ -1,0 +1,296 @@
+Kester - Soccer Club & Sports News HTML Template
+
+Kester - Soccer Club & Sports News HTML Template
+
+this is Kester - Soccer Club & Sports News HTML Template made by DuoDevs
+
+https://prod.liveshare.vsengsaas.visualstudio.com/join?E5A6519537F7631789D40F59F7EA399687E3
+
+
+
+
+
+
+/*-----------------------------------*\
+  #HEADER
+\*-----------------------------------*/
+
+alt = logo
+
+HOME
+
+ABOUT
+
+PAGES
+
+SHOP
+
+NEWS
+
+CONTACT
+
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="cart-outline" aria-hidden="true"></ion-icon>
+
+<!-- navbar -->
+
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+alt = logo
+
+HOME
+
+ABOUT
+
+PAGES
+
+SHOP
+
+NEWS
+
+CONTACT
+
+<ion-icon name="logo-facebook" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-twitter" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-behance" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-youtube" aria-hidden="true"></ion-icon>
+
+
+
+
+/*-----------------------------------*\
+  #HERO
+\*-----------------------------------*/
+
+WELCOME TO OUR FOOTBALL CLUB
+
+HENDERSON & THE WORLD CUP WINNER
+
+OUR TEAM
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+NEXT MATCH
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+
+/*-----------------------------------*\
+  #LETEST MATCH
+\*-----------------------------------*/
+
+
+alt = champions svg
+
+KESTER F.C CHAMPIONS DI CLUB
+
+6
+D
+00
+H
+33
+M
+21
+S
+
+KINGSTER F.C CHAMPIONS DI CLUB
+
+alt = champions svg
+
+
+
+
+/*-----------------------------------*\
+  #GALLERY
+\*-----------------------------------*/
+
+alt = gallery 1
+
+FOOTBALL
+
+THE WORLD CUP – WHAT TO EXPECT FROM
+
+READ MORE
+
+alt = gallery 2
+
+alt = gallery 3
+
+
+
+
+/*-----------------------------------*\
+  #PRIMIER
+\*-----------------------------------*/
+
+PREMIER LEAGUE
+It is one of the most popular football clubs that offer training programs for the youth, as well as summer camps
+
+
+2v2, Double Elimination
+
+LUSAIL ICO. STADIUM, DUBAI
+
+DECEMBER 25, 2022 4:00 PM
+
+alt = Kester F.C
+Kester F.C
+
+VS
+
+alt = Champions
+Champions
+
+GET TICKETS
+WATCH STREAM
+
+
+2v2, Double Elimination
+
+LUSAIL ICO. STADIUM, DUBAI
+
+DECEMBER 27, 2022 4:00 PM
+
+alt = Kester F.C
+Kester F.C
+
+VS
+
+alt = Asia Pasific
+Asia Pasific
+
+GET TICKETS
+WATCH STREAM
+
+
+
+2v2, Double Elimination
+
+LUSAIL ICO. STADIUM, DUBAI
+
+DECEMBER 30, 2022 4:00 PM
+
+alt = Kester F.C
+Kester F.C
+
+VS
+
+alt = West Ham
+West Ham
+
+GET TICKETS
+WATCH STREAM
+
+
+
+
+/*-----------------------------------*\
+  #ABOUT
+\*-----------------------------------*/
+
+alt = about banner 1
+alt = about banner 2
+
+ABOUT THE
+
+CLUB KESTER
+
+Nulla habitant commodo euismod feugiat aenean quisque platea ac, nisl potenti fusce conubia ventis blandit iaculis, curabitur enim inceptos a odio taciti sapien. Dictumst dis metus inceptos curae fermentum nvel, ridiculus a dapibus egestas penatibus mus, cubilia fusce iaculis
+
+<ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon>
+MANAGER
+PRO 05
+
+<ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon>
+PLAYERS
+PRO 107
+
+<ion-icon name="checkmark-outline" aria-hidden="true"></ion-icon>
+COACH
+PRO 19
+
+OUR TEAM 
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+
+/*-----------------------------------*\
+  #SPONSORS
+\*-----------------------------------*/
+
+HAPPY SPONSORS
+
+It is one of the most popular football clubs that offer training programs for the youth, as well as summer camps.
+
+alt = svg
+
+
+
+
+/*-----------------------------------*\
+  #FOOTER
+\*-----------------------------------*/
+
+alt = footer logo
+
+It was the end of a period in the 1980s in which it seemed like every NBA Finals matchup featured the Celtics sports club.
+
+<ion-icon name="logo-facebook" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-twitter" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-behance" aria-hidden="true"></ion-icon>
+<ion-icon name="logo-youtube" aria-hidden="true"></ion-icon>
+
+
+ESSENTIAL LINKS
+
+ABOUT CLUB
+CONTACTS
+PRICE TABLE
+SHOP
+OUR PLAYERS
+ARENA
+
+MEDIA & KIT
+OUR HISTORY
+TROPHY ROOM
+SHORT CODE
+
+GET IN TOUCH
+
+<ion-icon name="mail" aria-hidden="true"></ion-icon>
+INFO@WEBMAIL.COM
+
+<ion-icon name="call" aria-hidden="true"></ion-icon>
+098 777 888 90
+
+<ion-icon name="location"></ion-icon>
+USA, CALIFORNIA 20, FIRST
+AVENUE, CALIFORNIA
+
+POST GALLERY
+
+alt = side post image
+
+
+<!-- footer bottom -->
+
+COPYRIGHT & DESIGN BY 
+KESTER
+ - 2023
+
+TERMS & CONDITONS
+FAQ
+CAREER
+
+
+
+
+/*-----------------------------------*\
+  #BACK TO TOP
+\*-----------------------------------*/
+
+<ion-icon name="chevron-up-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="reload-circle-outline" aria-hidden="true"></ion-icon>
